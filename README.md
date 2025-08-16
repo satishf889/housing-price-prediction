@@ -1,22 +1,22 @@
 # Housing Price Prediction Project 🏠
 
-This project aims to predict housing prices using a **Decision Tree Algorithm**. It was developed as part of a course to demonstrate the fundamentals of machine learning and predictive modeling.
+This project aims to predict housing prices using a **Decision Tree Algorithm**. It was developed as part of a Udacity Nanodegree course to demonstrate the fundamentals of machine learning and predictive modeling.
 
------
+---
 
 ## ⚙️ Project Overview
 
 The core of this project is a **machine learning model** that can estimate a house's value based on a given set of features. The model is built using the **Decision Tree Regression** algorithm, a supervised learning method used for predicting continuous values.
 
------
+---
 
 ## 📂 Project Structure
 
-  * **`housing_data.csv`**: This file contains the dataset used to train and test the model. It includes various features like square footage, number of bedrooms, and location.
-  * **`housing_price_prediction.ipynb`**: A Jupyter Notebook containing all the code for data preprocessing, model training, evaluation, and prediction.
-  * **`README.md`**: This file, providing an overview of the project.
+- **`housing_data.csv`**: This file contains the dataset used to train and test the model. It includes various features like square footage, number of bedrooms, and location.
+- **`housing_price_prediction.ipynb`**: A Jupyter Notebook containing all the code for data preprocessing, model training, evaluation, and prediction.
+- **`README.md`**: This file, providing an overview of the project.
 
------
+---
 
 ## 🤖 Model Details
 
@@ -30,7 +30,7 @@ The model learns to make these decisions by analyzing the provided training data
 
 The dataset is split into a **training set** and a **testing set**. The model is trained on the training data to learn the patterns between the features and the house prices. Once trained, its performance is evaluated on the unseen testing data to assess its accuracy.
 
------
+---
 
 ## 🚀 How to Run the Project
 
@@ -54,7 +54,7 @@ The dataset is split into a **training set** and a **testing set**. The model is
 
 4.  **Run the Notebook Cells**: Execute all the cells in the notebook sequentially to see the data loading, model training, and prediction process.
 
------
+---
 
 ## 📈 Results and Conclusion
 
